@@ -2,7 +2,7 @@
  * Created by Danylo on 07.07.2022.
  */
 
-public virtual class Human {
+public virtual with sharing class Human {
 
     private String name;
     private String gender;
